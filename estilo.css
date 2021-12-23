@@ -1,0 +1,41 @@
+.cadastro {
+    width: 100%;
+}
+
+.cadastro fieldset{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #3a3a9c93;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.cadastro fieldset label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    padding-top: 5px;
+    color: #000;
+}
+
+.cadastro fieldset legend{
+    padding: 10px;
+    background-color: #3a3a9c93;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+.cadastro fieldset input{
+    padding: 10px;
+    background-color: white;
+    border: 0;
+    border-radius: 3px;
+}
+
+.cadastro fieldset .btn{
+    font-weight: bold;
+}
+
+.cadastro fieldset .btn:hover{
+    background-color: #3a3a9c93;
+}
